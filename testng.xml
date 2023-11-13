@@ -12,7 +12,7 @@
   	
 	<classes>
 		<class name="com.iNetBankingV3.testCases.TC_LoginTest_001"/>
-		
+		<class name="com.iNetBankingV3.testCases.TC_AddCustomer_003"/>
 	
 		
 	
